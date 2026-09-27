@@ -1,5 +1,6 @@
 # My GitHub space
-- [knowledge-graph][my-code-skills](https://docs.google.com/document/d/1IDKPrcx7mS6hI6RYJKOYujKH7RvcqWicxeO4TDxBEVU/edit?usp=sharing)
+- [knowledge-graph](https://docs.google.com/document/d/1IDKPrcx7mS6hI6RYJKOYujKH7RvcqWicxeO4TDxBEVU/edit?usp=sharing)
+- [my-code-skills](https://docs.google.com/document/d/1IDKPrcx7mS6hI6RYJKOYujKH7RvcqWicxeO4TDxBEVU/edit?usp=sharing)
 - [kaggle](https://www.kaggle.com/tmcater)
 
 ## Front-end (WinForms, Web, WebSite)

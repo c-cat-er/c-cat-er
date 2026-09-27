@@ -17,8 +17,9 @@
   - Advanced Techniques: Model Ensembling, Stacking & Blending, Data Leakage Prevention, Missing Values Handling, unbalanced data processing
 
 ## Python & Automated System
-- 2024, cat_python：Research on Practical Applications of Python in Industry and Sector.
+- 2024, [cat_python]：Research on Practical Applications of Python in Industry and Sector
 - [learning-automated-testing-crash / learning-python-testing]
+  - MSE + AI
 - [learning-serdes-cpo-crash]
 
 ## Full-End (WinForms, Web, WebSite)

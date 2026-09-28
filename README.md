@@ -11,6 +11,7 @@
 
 ## Machine Learning、Deep learning、Data Science
 - 2025.09-2026.06, [learning-ml-dl](https://github.com/c-cat-er/learning-ml-dl)
+- 2026.09, [learning-ml-dl-2]()
 - 2026.06, [kaggle-competition-notebooks](https://github.com/c-cat-er/kaggle-competition-notebooks)
   - Core Skills: Machine Learning, Advanced Regression, Feature Engineering, Cross-Validation
   - Tools & Frameworks: Python, Scikit-Learn Pipeline, XGBoost, LightGBM, CatBoost

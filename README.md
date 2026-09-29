@@ -28,7 +28,7 @@
 - 2023.11-2023.12, [project-playfood](https://github.com/c-cat-er/project-playfood)：Sales system based on C# + WinForms + LINQ to Objects/Entities + async/await + Task Parallel Library + SQL Server
 - 2024.01-2024.03, [project-modpack](https://github.com/c-cat-er/project-modpack)：Brand website system based on SQL-Server + .NET Core MVC + .NET Core API + AWS
   - Including: JavaScript, Clean Architecture, Domain-Driven Design (DDD), Dependency Injection (DI), ASP.NET Core Identity, JWT/OAuth2, HTTPS/TLS, SignalR, SSMS ...[my-code-skills](https://docs.google.com/document/d/1IDKPrcx7mS6hI6RYJKOYujKH7RvcqWicxeO4TDxBEVU/edit?usp=sharing)
-- 2024.04-2024.11, [cat_web](https://github.com/c-cat-er/cat_web) / [project-web2-set](https://github.com/c-cat-er/project-web2-set)：Separate development website system based on SQL-Server + .NET Core MVC backend + .NET Core API + Vue3 frontend
+- 2024.04-2024.11, [cat_web](https://github.com/c-cat-er/cat_web) / [project-web2-set](https://github.com/c-cat-er/project-web2-set)：Separate development website front-end and back-end separation system based on SQL-Server + .NET Core backend + .NET Core API + Vue3 frontend
   - Including: Vue 3 (Pinia, Vite), TypeScript, HTML5, CSS3, BootStrip, CORS, OWASP Top 10, Redis (Cache-Aside), PayPal, Stripe, ECPay, NewebPay, (Docker), (GitHub Actions (CI/CD)), xUnit/NUnit ...[my-code-skills](https://docs.google.com/document/d/1IDKPrcx7mS6hI6RYJKOYujKH7RvcqWicxeO4TDxBEVU/edit?usp=sharing)
 
 ## Other

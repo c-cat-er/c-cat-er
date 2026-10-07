@@ -6,7 +6,7 @@
 ## Current and Future Categories
 - Languages & UI: Python, TypeScript, React, Vue 3, Vite + Module Federation
 - AI & Vision: PyTorch, OpenCV, WebGL / WebGPU (Three.js)
-- Control & Infra: C# (.NET Core/.NET 8+), Docker, Kubernetes, GitLab CI/CD, GitHub Actions
+- Control & Infra: C# (.NET Core/.NET 8+), WPF, Docker, Kubernetes, GitLab CI/CD, GitHub Actions
 - Data & Comm: gRPC, WebSocket, SECS/GEM, PostgreSQL, InfluxDB, Kafka, Elasticsearch
 
 ## Machine Learning、Deep learning、Data Science
